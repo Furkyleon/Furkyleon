@@ -2,7 +2,8 @@
 
 I am Furkan. I am a Computer Science and Engineering Student at Sabanci University!
 
-I learned Python, C++ and Java languages.
+I know Python, C++ and Java languages.
+
 I am interested in frontend and backend technologies.
 
 <!--
