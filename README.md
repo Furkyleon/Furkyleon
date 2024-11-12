@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I am Furkan. I am a CS Student at Sabanci University!
+I am Furkan. I am a Computer Science and Engineering Student at Sabanci University!
+
+I learned Python, C++ and Java languages.
+I am interested in frontend and backend technologies.
 
 <!--
 **Furkyleon/Furkyleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
