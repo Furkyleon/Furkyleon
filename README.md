@@ -1,5 +1,8 @@
 ## Hi there 👋
 
-I am a junior Computer Science and Engineering student at Sabancı University with a talent for designing and solving problems. I was a member of the Student Representative Committee and took part in student clubs like IEEE and IES as a designer. I pay attention to detail in assignments and projects, work well in a team, and always aim to do my best.
+### About me:
+I am a senior Computer Science and Engineering student at Sabancı University who enjoys building practical digital products and turning ideas into polished, user-friendly experiences. My interests span both frontend and backend development, with a particular appreciation for designing thoughtful interfaces and solving problems with attention to detail. I see myself as someone who enjoys creating meaningful things and presenting them to people, and I am continuing to improve my technical and design abilities as I work toward a career in software and web development.
 
-I am interested in both frontend and backend development and enjoy designing user interfaces using frontend technologies. I am currently learning and improving my skills in these areas and plan to pursue a career in this field in the future.
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,cpp,html,css,spring,django,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
