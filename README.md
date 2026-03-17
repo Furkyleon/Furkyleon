@@ -5,4 +5,4 @@ I am a senior Computer Science and Engineering student at Sabancı University wh
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,cpp,html,css,spring,django,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,spring,django,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
