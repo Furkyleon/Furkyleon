@@ -27,3 +27,5 @@ I am a senior Computer Science and Engineering student at Sabancı University wh
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Visitor Counter]( https://anime-counter.lulushu.workers.dev/@Furkyleon?scale=1.2&num=0&pixelated=0&theme=gumball&length=5 )
