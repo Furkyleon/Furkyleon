@@ -1,4 +1,4 @@
-## Welcome to my Github profile!
+## Welcome to my GitHub profile!
 
 ### About me:
 I am a candidate of Software Engineer who graduated from Sabancı University with a degree in Computer Science and Engineering. I enjoy building practical digital products and turning ideas into polished, user-friendly experiences. My interests span both frontend and backend development, with a particular appreciation for designing thoughtful interfaces and solving problems with attention to detail. I see myself as someone who enjoys creating meaningful things and presenting them to people, and I am continuing to improve my technical and design abilities as I work toward a career in software and web development.
